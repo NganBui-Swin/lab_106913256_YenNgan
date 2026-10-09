@@ -26,6 +26,9 @@ h2 {
 h1, h2, h3 {
     font-family: Arial, sans-serif;
 }
+.red-text {
+    color: red;
+}
 
 aside, footer {
     font-style: italic;
@@ -38,6 +41,7 @@ table, th, td {
 #images {
     text-align: center;
 }
+
 
 #heading {
     color: red;
@@ -63,6 +67,6 @@ aside:hover {
 
 nav a:hover {
     background-color: lightblue;
-    border-color: darkblue;
+    border-color: rgb(202, 202, 253);
 }
 
